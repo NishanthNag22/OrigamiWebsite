@@ -1,0 +1,62 @@
+.head{
+  background-color: white;
+  border:solid;
+  }
+  
+ .note{
+  background-color: orange;
+  border: dotted;
+  }
+
+.menu{
+  margin-top: 2%;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 400;
+  width: 8%;
+  height: 5%;
+  border:solid;
+  background: transparent;
+}
+.menu1{
+  margin-top: 2%;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 400;
+  width: 8%;
+  height: 5%;
+  background:transparent;
+  border:solid;
+  scale: 110;
+  transition-duration: 500;
+}
+a:link{
+  color: black;
+}
+a:visited{
+  color: darkorange;
+}
+
+.img{
+  border: solid;
+}
+  
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .images {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
